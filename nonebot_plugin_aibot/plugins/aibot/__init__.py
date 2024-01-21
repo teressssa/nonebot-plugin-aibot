@@ -17,6 +17,8 @@ __plugin_meta__ = PluginMetadata(
     name="aibot",
     description="use model Mistral-7B-v0.1 to chat with you",
     usage="a chatbot powered by ai",
+    type="aplication",
+    homepage="use model Mistral-7B-v0.1 to chat with you",
     config=Config,
 )
 
